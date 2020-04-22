@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <item key="Pilsner Malt" value="1.0374301" />
+  <item key="Vienna Malt" value="1.0378922" />
+  <item key="Heidleberg" value="1.03719905" />
+  <item key="Melanoidin" value="1.0346575" />
+  <item key="Melanoidin Light" value="1.0346575" />
+  <item key="Organic Pilsen Malt" value="1.03719905" />
+  <item key="Pale Ale" value="1.03719905" />
+  <item key="Pilsen" value="1.03719905" />
+  <item key="Red X®" value="1.0365059" />
+  <item key="Munich Dark" value="1.036968" />
+  <item key="Munich Malt" value="1.0360438" />
+  <item key="Caramel Amber" value="1.0346575" />
+  <item key="Caramel Aromatic" value="1.0346575" />
+  <item key="Caramel Hell" value="1.0346575" />
+  <item key="Caramel Munich I" value="1.0346575" />
+  <item key="Caramel Munich II" value="1.0346575" />
+  <item key="Caramel Munich III" value="1.0346575" />
+  <item key="Caramel Pils" value="1.0346575" />
+  <item key="Best Black Malt" value="1.0300365" />
+  <item key="Best Black Malt eXtra" value="1.0300365" />
+  <item key="Roasted Barley" value="1.0" />
+  <item key="Best Chocolate" value="1.0346575" />
+  <item key="Peated Malt" value="1.0360438" />
+  <item key="Smoked Malt" value="1.0355817" />
+  <item key="Special X®" value="1.0346575" />
+  <item key="Acidulated Malt" value="0.0" />
+  <item key="Best Chit Malt" value="1.023105" />
+  <item key="Heidleberg Wheat Malt" value="1.0378922" />
+  <item key="Spelt Malt" value="1.0378922" />
+  <item key="Wheat Malt" value="1.0378922" />
+  <item key="Wheat Malt, Dark" value="1.0378922" />
+  <item key="Vienna Malt 2" value="1.03719905" />
+  <item key="Organic Roasted Barley" value="1.0332712" />
+  <item key="Ashburne® Mild Malt" value="1.0355817" />
+  <item key="Briess Brewer's Malt" value="1.03719905" />
+  <item key="Full Pint Brewer's Malt" value="1.0374301" />
+  <item key="Goldpils® Vienna" value="1.036968" />
+  <item key="Organic Brewers Malt" value="1.03719905" />
+  <item key="Pale Ale Malt" value="1.036968" />
+  <item key="Pilsen Malt" value="1.03719905" />
+  <item key="Synergy Select Pilsen Malt" value="1.03849293" />
+  <item key="Aromatic Munich Malt 20L" value="1.0355817" />
+  <item key="Bonlander®Munich Malt 10L" value="1.0360438" />
+  <item key="Organic Bonlander® Munich Malt 10L" value="1.0351196" />
+  <item key="Victory® Malt" value="1.0346575" />
+  <item key="Caramel Malt - 10L" value="1.0355817" />
+  <item key="Caramel Malt - 20L" value="1.0351196" />
+  <item key="Caramel Malt - 30L" value="1.0355817" />
+  <item key="Caramel Malt - 40L" value="1.0355817" />
+  <item key="Caramel Malt - 60L" value="1.0355817" />
+  <item key="Caramel Malt - 80L" value="1.0351196" />
+  <item key="Caramel Malt - 90L" value="1.0346575" />
+  <item key="Caramel Malt -120L" value="1.0346575" />
+  <item key="Caramel Munich Malt - 60L" value="1.0355817" />
+  <item key="Caramel Vienne Malt - 20L" value="1.0360438" />
+  <item key="Organic Caramel Malt 120L" value="1.032347" />
+  <item key="Organic Caramel Malt 20L" value="1.0337333" />
+  <item key="Organic Caramel Malt 60L" value="1.036968" />
+  <item key="Organic Carpils® Malt" value="1.0337333" />
+  <item key="Carapils® Copper Malt" value="1.0346575" />
+  <item key="Carapils® Malt" value="1.0346575" />
+  <item key="Black Malt" value="1.0" />
+  <item key="Blackprinz® Malt" value="1.0" />
+  <item key="Cara®brown Malt" value="1.0365059" />
+  <item key="Chocolate Malt" value="1.0" />
+  <item key="Dark Chocolate Malt" value="1.0" />
+  <item key="Organic Black Malt" value="1.032347" />
+  <item key="Organic Chocolate Malt" value="1.032347" />
+  <item key="Special Roast Malt" value="1.0332712" />
+  <item key="Applewood Smoked Malt" value="1.036968" />
+  <item key="Barley, Flaked" value="1.032347" />
+  <item key="Black Barley" value="1.0" />
+  <item key="Black Malted Barley Flour" value="1.0" />
+  <item key="Caracrystal® Wheat Malt 55L" value="1.0360438" />
+  <item key="Caramel Rye Malt" value="1.036968" />
+  <item key="Cherrywood Smoked Malt" value="1.036968" />
+  <item key="Corn - Yellow, Flaked" value="1.0346575" />
+  <item key="Extra Special Malt" value="1.0337333" />
+  <item key="Light Roasted Barley" value="1.0" />
+  <item key="Mesquite Smoked Malt" value="1.03719905" />
+  <item key="Midnight Wheat Malt" value="1.0" />
+  <item key="Oats, Flaked" value="1.032347" />
+  <item key="Rye, Flaked" value="1.0328091" />
+  <item key="Rye, Malted" value="1.0" />
+  <item key="Wheat Malt, Red" value="1.0374301" />
+  <item key="Wheat, Torrified" value="1.0351196" />
+  <item key="Triticale, Flaked" value="1.0328091" />
+  <item key="Wheat Malt, White" value="1.0392785" />
+  <item key="Special B" value="1.0355817" />
+  <item key="Castle Pilsner Malt 6RS" value="1.036968" />
+  <item key="Château Pale Ale" value="1.036968" />
+  <item key="Château Pilsen 2RS" value="1.03719905" />
+  <item key="Château Vienna" value="1.036968" />
+  <item key="Château Biscuit" value="1.0355817" />
+  <item key="Château Biscuit Nature" value="1.0355817" />
+  <item key="Château Melano" value="1.0360438" />
+  <item key="Château Melano Light" value="1.0365059" />
+  <item key="Château Monastique" value="1.0360438" />
+  <item key="Château Munich Light" value="1.036968" />
+  <item key="Château Cara Blonde™" value="1.0360438" />
+  <item key="Château Cara Gold Nature" value="1.0341954" />
+  <item key="Château Cara Gold™" value="1.0360438" />
+  <item key="Château Cara Ruby™" value="1.0360438" />
+  <item key="Château Special Belgium™" value="1.0355817" />
+  <item key="Château Special Belgium™ Nature" value="1.0351196" />
+  <item key="Château Black" value="1.0337333" />
+  <item key="Château Chocolat" value="1.0346575" />
+  <item key="Château Spelt" value="1.03673695" />
+  <item key="Crisp Best Ale Malt" value="1.0378922" />
+  <item key="Crisp Chevallier Heritage Malt" value="1.0365059" />
+  <item key="Crisp Europils Malt" value="1.03766115" />
+  <item key="Crisp Extra Pale Maris Otter®" value="1.03766115" />
+  <item key="Crisp Finest Maris Otter®" value="1.03766115" />
+  <item key="Crisp No.19 Floor-Malted Maris Otter®" value="1.03761494" />
+  <item key="Crisp Organic Ale Malt" value="1.03766115" />
+  <item key="William Crisp Amber Malt" value="1.036968" />
+  <item key="William Crisp Dark Munich Malt" value="1.0365059" />
+  <item key="William Crisp Light Munich Malt" value="1.0365059" />
+  <item key="William Crisp Cara Malt 15L" value="1.0351196" />
+  <item key="William Crisp Crystal 60L" value="1.0351196" />
+  <item key="William Crisp Crystal 77L" value="1.0351196" />
+  <item key="William Crisp Crystal Extra Dark 120L" value="1.0351196" />
+  <item key="William Crisp Crystal Light 45L" value="1.0351196" />
+  <item key="William Crisp Chocolate Malt" value="1.0355817" />
+  <item key="William Crisp Brown Malt" value="1.03535065" />
+  <item key="William Crisp Pale Chocolate Malt" value="1.0355817" />
+  <item key="William Crisp Black Malt" value="1.0346575" />
+  <item key="William Crisp Roasted Barley" value="1.03535065" />
+  <item key="Crisp Malted Oats" value="1.03488855" />
+  <item key="Crisp Organic Wheat Malt" value="1.03858535" />
+  <item key="Crisp Rye Malt" value="1.03997165" />
+  <item key="Crisp Wheat Malt" value="1.03904745" />
+  <item key="Pale Malt 2-Row" value="1.0360438" />
+  <item key="Pilsner Malt 2" value="1.0365059" />
+  <item key="Aromatic Malt" value="1.036968" />
+  <item key="Biscuit Malt" value="1.032347" />
+  <item key="Dingemans Munich Malt" value="1.036968" />
+  <item key="Cara 20 (Caravienne) Malt" value="1.032347" />
+  <item key="Dingemans Cara 8 Malt" value="1.0300365" />
+  <item key="Dingemans Caramunich 45" value="1.032347" />
+  <item key="Special B Malt" value="1.0300365" />
+  <item key="Belgian Debittered Black Malt" value="1.0300365" />
+  <item key="Chocolate" value="1.0300365" />
+  <item key="Franco-Belges Pilsen" value="1.036968" />
+  <item key="ESB Pale Malt" value="1.0378922" />
+  <item key="Organic Pale Malt" value="1.0378922" />
+  <item key="Organic Pilsner Malt" value="1.0378922" />
+  <item key="Pale Malt" value="1.0378922" />
+  <item key="Pilsner Malt 3" value="1.0378922" />
+  <item key="Vienna Malt 3" value="1.0374301" />
+  <item key="Honey Malt" value="1.036968" />
+  <item key="Munich Dark 30L" value="1.0374301" />
+  <item key="Munich Light 10L" value="1.0374301" />
+  <item key="Organic Munich 10L" value="1.0374301" />
+  <item key="Organic Wheat Malt" value="1.0388164" />
+  <item key="Wheat Malt 2" value="1.0388164" />
+  <item key="Rice, Flaked" value="1.0392785" />
+  <item key="Pale High Color Malt" value="0.0" />
+  <item key="Premium 2-Row Malt" value="0.0" />
+  <item key="Pure California Malt" value="0.0" />
+  <item key="Pure Idaho Malt" value="0.0" />
+  <item key="Pure Oregon Malt" value="0.0" />
+  <item key="Pure Washington Malt" value="0.0" />
+  <item key="Superior Pilsen" value="0.0" />
+  <item key="Vienna Malt 4" value="0.0" />
+  <item key="Whiteout Malt" value="0.0" />
+  <item key="Mela Malt" value="0.0" />
+  <item key="Munich Malt 2" value="1.0" />
+  <item key="Caramel Steam Malt" value="0.0" />
+  <item key="Crystal 120" value="0.0" />
+  <item key="Crystal 15" value="0.0" />
+  <item key="Crystal 150" value="0.0" />
+  <item key="Crystal 30" value="0.0" />
+  <item key="Crystal 40" value="1.0" />
+  <item key="Crystal 60" value="1.0" />
+  <item key="Crystal 75" value="1.0" />
+  <item key="Crystal Wheat Malt" value="0.0" />
+  <item key="DextraPils" value="0.0" />
+  <item key="Great Western White Wheat Malt" value="1.0" />
+  <item key="Unmalted Barley" value="1.0" />
+  <item key="Wheat, Unmalted" value="1.0346575" />
+  <item key="Warminster Floor Malted Maris Otter Malt" value="1.036968" />
+  <item key="Maris Otter Malt" value="1.03812325" />
+  <item key="Irish Ale Malt" value="1.0378922" />
+  <item key="Irish Lager Malt" value="1.0378922" />
+  <item key="Irish Stout Malt" value="1.0378922" />
+  <item key="Lager Malt" value="1.036968" />
+  <item key="Maris Otter" value="1.0378922" />
+  <item key="Munton's English Mild Malt" value="1.0392785" />
+  <item key="Chocolate Malt 2" value="1.0309607" />
+  <item key="Muntons English Pale Malt" value="1.036968" />
+  <item key="Muntons Crystal 60L" value="1.0309607" />
+  <item key="Muntons Black Patent Malt" value="1.0300365" />
+  <item key="Muntons Roasted Barley" value="1.0309607" />
+  <item key="Extra Pale Malt" value="1.036968" />
+  <item key="Vienna Malt 5" value="1.0360438" />
+  <item key="Munich Malt 3" value="1.0346575" />
+  <item key="Caramel 110L" value="1.0300365" />
+  <item key="Caramel 15L" value="1.0300365" />
+  <item key="Caramel 170L" value="1.0300365" />
+  <item key="Caramel 190L" value="1.0300365" />
+  <item key="Caramel 35L" value="1.0300365" />
+  <item key="Caramel 45L" value="1.0300365" />
+  <item key="Caramel 55L" value="1.0300365" />
+  <item key="Caramel 70L" value="1.0300365" />
+  <item key="Caramel 90L" value="1.0300365" />
+  <item key="Caramel Especial Malt 140L" value="1.0300365" />
+  <item key="Patagonia Brown 115L" value="1.0300365" />
+  <item key="Patagonia Chocolate 350L" value="1.0300365" />
+  <item key="Patagonia Coffee 230L" value="1.0300365" />
+  <item key="Patagonia Dark Chocolate 450L" value="1.0300365" />
+  <item key="Patagonia Perla Negra (Black Pearl) 340L" value="1.0300365" />
+  <item key="Rahr Old World Pilsner" value="1.0365059" />
+  <item key="Rahr Pale Ale" value="1.0365059" />
+  <item key="Rahr Premium Pilsner" value="1.036968" />
+  <item key="Rahr Standard 2-Row" value="1.036968" />
+  <item key="Rahr Standard 6- Row" value="1.0365059" />
+  <item key="Rahr Red Wheat" value="1.0392785" />
+  <item key="Rahr Unmalted Wheat" value="1.0" />
+  <item key="Rahr White Wheat" value="1.0392785" />
+  <item key="Pilsner (2 Row) German" value="1.0383543" />
+  <item key="Best Pale Ale Malt" value="1.03719905" />
+  <item key="Extra Pale Ale Malt" value="1.03719905" />
+  <item key="Finest Lager Malt" value="1.0374301" />
+  <item key="Finest Pale Ale Maris Otter®" value="1.0374301" />
+  <item key="Golden Promise™" value="1.0374301" />
+  <item key="Low Color Maris Otter" value="1.03719905" />
+  <item key="Amber Malt" value="1.0318849" />
+  <item key="Aromatic Malt 2" value="1.032347" />
+  <item key="Cornish Gold" value="1.036968" />
+  <item key="Imperial Malt" value="1.0346575" />
+  <item key="Munich Malt 4" value="1.036968" />
+  <item key="Vienna Malt 6" value="1.0346575" />
+  <item key="British Crystal" value="1.0" />
+  <item key="English Crystal, 50-60 L" value="1.0" />
+  <item key="Heritage Crystal Malt" value="1.0318849" />
+  <item key="Simpson's DRC®" value="1.0318849" />
+  <item key="Roasted Barley 2" value="1.0286502" />
+  <item key="Black (Patent) Malt" value="1.0318849" />
+  <item key="Brown Malt" value="1.03174627" />
+  <item key="Chocolate Malt 3" value="1.0318849" />
+  <item key="Dextrin Malt" value="1.03119175" />
+  <item key="Peat Smoked Malt" value="1.03784599" />
+  <item key="Wheat Malt 3" value="1.03830809" />
+  <item key="Golden Naked Oats®™" value="1.0318849" />
+  <item key="Oats, Golden Naked" value="1.0" />
+  <item key="Oats, Malted" value="1.0341954" />
+  <item key="Rye Malt" value="1.0300365" />
+  <item key="Wheat Malt 4" value="1.0360438" />
+  <item key="Caramalt" value="1.0328091" />
+  <item key="Crystal Light" value="1.0318849" />
+  <item key="Crystal T50™" value="1.0318849" />
+  <item key="Crystal, Dark" value="1.0318849" />
+  <item key="Crystal, Extra Dark" value="1.0" />
+  <item key="Crystal, Medium" value="1.0318849" />
+  <item key="Premium English Caramalt" value="1.0328091" />
+  <item key="Pale Malt, Halcyon" value="1.03719905" />
+  <item key="Thomas Fawcett Floor Malted Maris Otter" value="1.03719905" />
+  <item key="Thomas Fawcett Caramalt" value="1.03719905" />
+  <item key="Pale Chocolate Malt" value="1.0328091" />
+  <item key="Barke® Munich Malt" value="1.0360438" />
+  <item key="Barke® Pilsner Malt" value="1.03719905" />
+  <item key="Barke® Vienna Malt" value="1.0365059" />
+  <item key="Bohemian Pilsner Malt" value="1.0383543" />
+  <item key="Extra Pale Premium Pilsner" value="1.03719905" />
+  <item key="Floor-Malted Bohemian Dark Malt" value="1.0360438" />
+  <item key="Floor-Malted Bohemian Pilsner" value="1.0365059" />
+  <item key="Pale Ale Malt 2" value="1.0365059" />
+  <item key="Pilsner Malt 4" value="1.03798462" />
+  <item key="Vienna Malt 7" value="1.03798462" />
+  <item key="Weyermann Brewing Malt (Type Cologne)" value="1.0" />
+  <item key="Melanoidin 2" value="1.0346575" />
+  <item key="Munich Type 1" value="1.03826188" />
+  <item key="Munich Type 2" value="1.03798462" />
+  <item key="CARAAMBER®" value="1.0355817" />
+  <item key="CARAAROMA®" value="1.0341954" />
+  <item key="CARABELGE®" value="1.03590517" />
+  <item key="CARABOHEMIAN®" value="1.0341954" />
+  <item key="CARAFOAM®" value="1.0360438" />
+  <item key="CARAHELL®" value="1.0341954" />
+  <item key="CARAMUNICH® Type 1" value="1.0341954" />
+  <item key="CARAMUNICH® Type 2" value="1.0341954" />
+  <item key="CARAMUNICH® Type 3" value="1.0341954" />
+  <item key="CARARED®" value="1.0341954" />
+  <item key="CARARYE®" value="1.0341954" />
+  <item key="CARAWHEAT®" value="1.0341954" />
+  <item key="Weyermann® Abbey Malt®" value="1.0346575" />
+  <item key="Barley, Roasted" value="1.0337333" />
+  <item key="Special W®" value="1.0337333" />
+  <item key="CARAFA® Special Type 2" value="1.032347" />
+  <item key="CARAFA® Special Type 3" value="1.032347" />
+  <item key="CARAFA® Special Type I" value="1.032347" />
+  <item key="CARAFA® Type 1" value="1.032347" />
+  <item key="CARAFA® Type 2" value="1.0300365" />
+  <item key="CARAFA® Type 3" value="1.0300365" />
+  <item key="Acidulated Malt 2" value="1.0" />
+  <item key="Chocolate Rye Malt" value="1.0300365" />
+  <item key="Chocolate Wheat Malt" value="1.0300365" />
+  <item key="Smoked Malt 2" value="1.0374301" />
+  <item key="Wheat Malt, Pale" value="1.0397406" />
+  <item key="Rye Malt 2" value="1.0383543" />
+  <item key="Spelt Malt, Chocolate" value="1.0300365" />
+  <item key="Wheat Malt, Dark 2" value="1.0378922" />
+</items>

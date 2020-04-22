@@ -1,0 +1,20 @@
+---MALT---
+ 
+---HUMLE---
+ 
+Mäsk liter 
+Lak liter 
+Före kok liter 
+Efter kok liter 
+Liter i jäskärl 
+ 
+Mäskning Tid:  Temp: 
+Utmäskning Tid:  Temp: 
+Kok Tid:  Temp: 
+Primärjäsning Tid:  Temp: 
+Sekundärjäsning Tid:  Temp: 
+ 
+Jästsortd & Attenuation: 
+ 
+ 
+Teoretiska värden OG: FG: ABV:

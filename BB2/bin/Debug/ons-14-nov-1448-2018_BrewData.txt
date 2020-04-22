@@ -1,0 +1,23 @@
+---MALT---
+Pale Ale - 2 Kg
+Pale Chocolate Malt - 1 Kg
+Patagonia Coffee 230L - 0,5 Kg
+ 
+---HUMLE---
+Mosaic® - 25 Gram - 11% - 60 Min
+ 
+Mäsk liter 
+Lak liter 
+Före kok liter 
+Efter kok liter 10
+Liter i jäskärl 
+ 
+Mäskning Tid:  Temp: 
+Utmäskning Tid:  Temp: 
+Kok Tid:  Temp: 
+Primärjäsning Tid:  Temp: 
+Sekundärjäsning Tid:  Temp: 
+ 
+Jästsortd & Attenuation: us-05 - 75% 
+ 
+Teoretiska värden OG:74 FG:18 ABV:7,35

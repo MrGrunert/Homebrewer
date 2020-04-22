@@ -1,0 +1,20 @@
+---MALT---
+Pale Ale - 4,6 Kg
+Rahr Red Wheat - 0,5 Kg
+Smoked Malt - 0,2 Kg
+---HUMLE---
+Citra® - 25 Gram - 11% - 60 Min
+Citra® - 25 Gram - 11% - 20 Min
+Citra® - 25 Gram - 11% - 0 Min
+Mäsk liter 15
+Lak 6
+Före kok liter 21
+Efter kok liter 19
+Liter i jäskärl 18
+Mäskning Tid: 60 Temp: 65
+Utmäskning Tid: 5 Temp: 78
+Kok Tid: 90 Temp: 100
+Primärjäsning Tid: 14 Temp: 20
+Sekundärjäsning Tid: 0 Temp: 0
+Jästsortd & Attenuation: US-05 - 75% 
+Teoretiska värden OG:63 FG:15 ABV:6,30

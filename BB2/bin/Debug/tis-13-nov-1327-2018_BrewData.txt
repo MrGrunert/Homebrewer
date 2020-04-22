@@ -1,0 +1,18 @@
+---MALT---
+Pale Ale - 2,5 Kg
+Smoked Malt - 0,25 Kg
+Chocolate Malt 3 - 0,25 Kg
+---HUMLE---
+Citra® - 25 Gram - 7% - 60 Min
+Mäsk liter 
+Lak liter 
+Före kok liter 
+Efter kok liter 10
+Liter i jäskärl 
+Mäskning Tid:  Temp: 
+Utmäskning Tid:  Temp: 
+Kok Tid:  Temp: 
+Primärjäsning Tid:  Temp: 
+Sekundärjäsning Tid:  Temp: 
+Jästsortd & Attenuation: us - 75% 
+Teoretiska värden OG:66 FG:16 ABV:6,5625

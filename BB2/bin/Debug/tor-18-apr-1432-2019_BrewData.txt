@@ -1,0 +1,24 @@
+---MALT---
+Pilsner Malt - 2 Kg
+Cara 20 (Caravienne) Malt - 0,5 Kg
+ 
+---HUMLE---
+Citra® - 12 Gram - 14% - 60 Min
+Citra® - 5 Gram - 14% - 20 Min
+Citra® - 5 Gram - 14% - 10 Min
+ 
+Mäsk liter 8
+Lak liter 3
+Före kok liter 12
+Efter kok liter 10
+Liter i jäskärl 10
+ 
+Mäskning Tid: 60 Temp: 65
+Utmäskning Tid:  Temp: 
+Kok Tid: 60 Temp: 
+Primärjäsning Tid: 14 Temp: 
+Sekundärjäsning Tid:  Temp: 
+ 
+Jästsortd & Attenuation: us-05 - 75% 
+ 
+Teoretiska värden OG:55 FG:13 ABV:5,5125

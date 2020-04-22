@@ -1,0 +1,23 @@
+---MALT---
+Barley, Roasted - 2 Kg
+Best Black Malt - 1 Kg
+Brown Malt - 1 Kg
+---HUMLE---
+Citra® - 25 Gram - 7% - 60 Min
+East Kent Golding - 25 Gram - 11% - 40 Min
+ 
+Mäsk liter 7
+Lak liter 5
+Före kok liter 12
+Efter kok liter 10
+Liter i jäskärl 10
+ 
+Mäskning Tid: 60 Temp: 65
+Utmäskning Tid: 5 Temp: 78
+Kok Tid: 90 Temp: 100
+Primärjäsning Tid: 14 Temp: 20
+Sekundärjäsning Tid: 0 Temp: 0
+ 
+Jästsortd & Attenuation: Us-05 - 75% 
+ 
+Teoretiska värden OG:78 FG:19 ABV:7,74375

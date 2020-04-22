@@ -1,0 +1,21 @@
+---MALT---
+Best Black Malt - 4 Kg
+ 
+---HUMLE---
+Brewers Gold - 33 Gram - 12% - 55 Min
+ 
+Mäsk liter 7
+Lak liter 5
+Före kok liter 12
+Efter kok liter 10
+Liter i jäskärl 10
+ 
+Mäskning Tid: 60 Temp: 66
+Utmäskning Tid: - Temp: -
+Kok Tid: 90 Temp: 100
+Primärjäsning Tid: 14 Temp: 20
+Sekundärjäsning Tid: - Temp: -
+ 
+Jästsortd & Attenuation: us-05 - 75% 
+ 
+Teoretiska värden OG:73 FG:18 ABV:7,21875
